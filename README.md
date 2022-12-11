@@ -257,9 +257,9 @@
 
 <details>
 <summary>Settings</summary>
-<strong>Save Config:</strong> Saves the current config into &quot;C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json&quot;
+<strong>Save:</strong> Saves the current config into &quot;C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json&quot;
 <br>
-<br><strong>Load Config:</strong> Loads PrimalConfig.json from &quot;C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC&quot;
+<br><strong>Load:</strong> Loads PrimalConfig.json from &quot;C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC&quot;
 <br>
 <br><strong>Menu Key:</strong> Changeable menu key
 <br>
