@@ -23,7 +23,7 @@
 </details>
 
 <details>
-<summary>Visuals > Wild Dinos</summary>
+<summary>Visuals > Structures</summary>
 &emsp;&emsp;Turrets
 <br>&emsp;&emsp;Structures
 </details>
