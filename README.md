@@ -248,7 +248,7 @@
 <strong>Dino Speed:</strong> Makes your dino run super fast
 </details>
 
-<detials>
+<details>
 <summary>Colors</summary>
 <strong>ESP Colors:</strong> Changeable colors for all the different types of ESP
 
