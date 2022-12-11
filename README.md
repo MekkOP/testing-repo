@@ -31,8 +31,9 @@
 <summary>Visuals > Misc</summary>
 &emsp;&emsp;HUD
 </details>
+
 <br>
-<br>
+
 <details>
 <summary>Aimbot > Aimbot</summary>
 &emsp;&emsp;Enabled
