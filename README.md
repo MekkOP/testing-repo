@@ -271,7 +271,7 @@
 # Changelogs
 Based on EST time\
 
-<strongChangelogs (7:30pm 11/22/22)</strong>
+<strong>Changelogs (7:30pm 11/22/22)</strong>
  - Added Structure ESP
  - Added Auto Brew in Player Mods under Exploits Tab
  - Added All Dino Mods under Exploits Tab
