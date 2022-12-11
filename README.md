@@ -21,3 +21,9 @@
 &emsp;&emsp;Wild Dinos
 <br>&emsp;&emsp;Wild Dino Corpse
 </details>
+
+<details>
+<summary>Visuals > Wild Dinos</summary>
+&emsp;&emsp;Turrets
+<br>&emsp;&emsp;Structures
+</details>
