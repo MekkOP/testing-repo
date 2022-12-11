@@ -267,3 +267,27 @@
 <br>
 <br><strong>Font Scales:</strong> Changeable font sizes for all types of ESP
 </details>
+
+# Changelogs
+Based on EST time\
+
+<strongChangelogs (7:30pm 11/22/22)</strong>
+ - Added Structure ESP
+ - Added Auto Brew in Player Mods under Exploits Tab
+ - Added All Dino Mods under Exploits Tab
+ - Added Font Scaling under Settings Tab
+
+<strong>Changelogs (4:00am 12/5/22)</strong>
+ - All settings should now save
+ - Stability/Crash fixes
+ - Turrets No Longer Count As Containers (was not intended)
+ - Auto Brew Customizable Threshold & Brew Interval
+ - Changeable + Savable Menu Key
+ - No Overheat for tek rail gun and tek rifle
+ - Trans bag toggle + better trans bag (now allows you to upload items)
+ - Character Creator (custom character color + small bone preset)
+ - No Spawn Animation
+ - Infinite Element
+ - Demo Nearby Enemy Traps (limited radius)
+ - Bow Mod (click to fire - max speed arrows)
+ - Armor Icons For Players
