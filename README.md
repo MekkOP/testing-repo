@@ -10,8 +10,9 @@
 
 <details>
 <summary>Visuals > Dinos</summary>
-&emsp;&emsp;Enemy Tamed Dinos
-<br>&emsp;&emsp;Tribe Tamed Dinos
+&emsp;&emsp;Enemy Dinos
+<br>&emsp;&emsp;Tribe Dinos
+<br>&emsp;&emsp;Allied Dinos
 <br>&emsp;&emsp;Tamed Dino Corpse
 </details>
 
