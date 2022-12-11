@@ -162,3 +162,13 @@
 <br>&emsp;<strong>Silent Aim:</strong> Automatically hits players inside of your aim fov, even if you aren't looking directly at them
 <br>&emsp;<strong>Triggerbot:</strong> Automatically shoots when the crosshair is over a player
 </details>
+
+<details>
+<summary>Visuals (ESP)</summary>
+<strong>Player Visuals:</strong> Shows enemies gamertags, names, tribe names, weapons, distance, and stats through walls
+<br>&emsp;<strong>Tamed Dino Visuals;</strong> Shows tamed dino's names, tribe names, distance and stats through walls
+<br>&emsp;<strong>Wild Dinos Visuals:</strong> Shows wild dino's names, distance and stats through walls
+<br>&emsp;<strong>Turret Visuals:</strong> Shows name, distance and tribe name through walls
+<br>&emsp;<strong>Container Visuals:</strong> Shows name, distance, owner and tribe name through walls
+<br>&emsp;<strong>HUD Visuals:</strong> Toggles what things someone would like to have on their screen while playing, such as a crosshair, the aim fov, a line to the nearest target that is inside the aim fov and a radar
+</details>
