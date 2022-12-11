@@ -269,7 +269,7 @@
 </details>
 
 # Changelogs
-Based on EST time\
+Based on EST time
 
 <br><strong>Changelogs (7:30pm 11/22/22)</strong>
  - Added Structure ESP
