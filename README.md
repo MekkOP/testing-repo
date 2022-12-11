@@ -31,3 +31,35 @@
 <summary>Visuals > Misc</summary>
 &emsp;&emsp;HUD
 </details>
+<br>
+<br>
+<details>
+<summary>Aimbot > Aimbot</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Visible Check
+<br>&emsp;&emsp;Target Sleepers
+<br>&emsp;&emsp;Target Tribe
+<br>&emsp;&emsp;Aim Bone
+<br>&emsp;&emsp;&emsp;Head, Chest, Hands, Legs, Feet, Random
+</details>
+
+<details>
+<summary>Aimbot > Silent Aim</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Use Keybind
+<br>&emsp;&emsp;Target Sleepers
+<br>&emsp;&emsp;Use FOV
+<br>&emsp;&emsp;Target Tribe
+<br>&emsp;&emsp;Aim Bone
+<br>&emsp;&emsp;&emsp;Head, Chest, Hands, Legs, Feet, Random
+</details>
+
+<details>
+<summary>Aimbot > Triggerbot</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Use Keybind
+<br>&emsp;&emsp;Target Sleepers
+<br>&emsp;&emsp;Target Tribe
+<br>&emsp;&emsp;Rapid
+<br>&emsp;&emsp;Ignore Shield
+</details>
