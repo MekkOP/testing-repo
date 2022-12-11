@@ -246,3 +246,4 @@
 <strong>Auto Remount:</strong> Automatically remounts your player onto a dino
 
 <strong>Dino Speed:</strong> Makes your dino run super fast
+</details>
