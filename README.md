@@ -154,3 +154,18 @@
 <br>&emsp;&emsp;Font Scale
 <br>&emsp;&emsp;&emsp;Font Scale Sliders
 </details>
+
+# Descriptions
+## **Aimbot**
+**Aimbot:** Locks onto a player inside of your aim fov when a key is pressed\
+\
+**Silent Aim:** Automatically hits players inside of your aim fov, even if you aren't looking directly at them\
+\
+**Triggerbot:** Automatically shoots when the crosshair is over a player\
+
+<details>
+<summary>Aimbot</summary>
+&emsp;**Aimbot:** Locks onto a player inside of your aim fov when a key is pressed\
+&emsp;**Silent Aim:** Automatically hits players inside of your aim fov, even if you aren't looking directly at them\
+&emsp;**Triggerbot:** Automatically shoots when the crosshair is over a player\
+</details>
