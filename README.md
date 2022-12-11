@@ -5,23 +5,23 @@ testing grounds for repository updates
 <summary>Visuals > Players</summary>
 <br>
 Enemy Players
-Tribe Players
-Allied Players
-Sleeping Players
-Player Corpse
+<br>Tribe Players
+<br>Allied Players
+<br>Sleeping Players
+<br>Player Corpse
 </details>
 
 <details>
 <summary>Visuals > Dinos</summary>
 <br>
 Enemy Tamed Dinos
-Tribe Tamed Dinos
-Tamed Dino Corpse
+<br>Tribe Tamed Dinos
+<br>Tamed Dino Corpse
 </details>
 
 <details>
 <summary>Visuals > Wild Dinos</summary>
 <br>
 Wild Dinos
-Wild Dino Corpse
+<br>Wild Dino Corpse
 </details>
