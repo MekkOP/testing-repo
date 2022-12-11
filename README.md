@@ -181,7 +181,7 @@
 </details>
 
 <details>
-<summnary>Exploits</summary>
+<summary>Exploits</summary>
 <strong>Unlock Notes:</strong> Unlocks most explorer notes
 
 <strong>Unlock Engrams:</strong> Unlocks engrams but you can only craft them and not be able to use the items that you crafted
