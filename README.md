@@ -115,3 +115,40 @@
 <br>&emsp;&emsp;Auto Remount
 <br>&emsp;&emsp;Speed
 </details>
+
+<br>
+
+<details>
+<summary>Colors > ESP</summary>
+&emsp;&emsp;Players
+<br>&emsp;&emsp;Dinos
+<br>&emsp;&emsp;Structures
+</details>
+
+<details>
+<summary>Colors > HUD/UI</summary>
+&emsp;&emsp;Logo Hue
+<br>&emsp;&emsp;Base Color
+<br>&emsp;&emsp;Highlight Color
+<br>&emsp;&emsp;Text Color #1
+<br>&emsp;&emsp;Text Color #2
+<br>&emsp;&emsp;Crosshair/Aim FOV
+<details>
+
+<br>
+
+<details>
+<summary>Settings > Config</summary>
+&emsp;&emsp;Save
+<br>&emsp;&emsp;Load
+<br>&emsp;&emsp;Menu Key
+</details>
+
+<details>
+<summary> Settings > Other</summary>
+&emsp;&emsp;Chams
+<br>&emsp;&emsp;&emsp;Wireframe Override
+<br>&emsp;&emsp;&emsp;Opacity Sliders
+<br>&emsp;&emsp;Font Scale
+<br>&emsp;&emsp;&emsp;Font Scale Sliders
+</details>
