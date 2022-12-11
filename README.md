@@ -271,13 +271,13 @@
 # Changelogs
 Based on EST time\
 
-<strong>Changelogs (7:30pm 11/22/22)</strong>
+<br><strong>Changelogs (7:30pm 11/22/22)</strong>
  - Added Structure ESP
  - Added Auto Brew in Player Mods under Exploits Tab
  - Added All Dino Mods under Exploits Tab
  - Added Font Scaling under Settings Tab
 
-<strong>Changelogs (4:00am 12/5/22)</strong>
+<br><strong>Changelogs (4:00am 12/5/22)</strong>
  - All settings should now save
  - Stability/Crash fixes
  - Turrets No Longer Count As Containers (was not intended)
