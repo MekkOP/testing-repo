@@ -252,6 +252,5 @@
 <summary>Colors</summary>
 <strong>ESP Colors:</strong> Changeable colors for all the different types of ESP
 
-
-<strong>HUD/UI Colors:</strong> Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color
+<br><strong>HUD/UI Colors:</strong> Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color
 </details>
