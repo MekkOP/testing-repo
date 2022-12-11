@@ -1,6 +1,3 @@
-# testing-repo
-testing grounds for repository updates
-
 <details>
 <summary>Visuals > Players</summary>
 <br>
