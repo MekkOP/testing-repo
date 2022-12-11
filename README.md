@@ -133,7 +133,7 @@
 <br>&emsp;&emsp;Text Color #1
 <br>&emsp;&emsp;Text Color #2
 <br>&emsp;&emsp;Crosshair/Aim FOV
-<details>
+</details>
 
 <br>
 
