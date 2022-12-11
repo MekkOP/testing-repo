@@ -165,7 +165,7 @@
 
 <details>
 <summary>Visuals (ESP)</summary>
-<strong>Player Visuals:</strong> Shows enemies gamertags, names, tribe names, weapons, distance, and stats through walls
+&emsp;<strong>Player Visuals:</strong> Shows enemies gamertags, names, tribe names, weapons, distance, and stats through walls
 <br>&emsp;<strong>Tamed Dino Visuals;</strong> Shows tamed dino's names, tribe names, distance and stats through walls
 <br>&emsp;<strong>Wild Dinos Visuals:</strong> Shows wild dino's names, distance and stats through walls
 <br>&emsp;<strong>Turret Visuals:</strong> Shows name, distance and tribe name through walls
