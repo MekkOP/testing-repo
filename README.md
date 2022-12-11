@@ -64,3 +64,54 @@
 <br>&emsp;&emsp;Rapid
 <br>&emsp;&emsp;Ignore Shield
 </details>
+
+<br>
+
+<details>
+<summary>Exploits > Player Mods</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Unlock Note
+<br>&emsp;&emsp;Unlock Engrams
+<br>&emsp;&emsp;Long Arms
+<br>&emsp;&emsp;Transmitter Bag
+<br>&emsp;&emsp;Infinite Element
+<br>&emsp;&emsp;Demolish Traps
+<br>&emsp;&emsp;Auto Loot
+<br>&emsp;&emsp;Air Stuck
+<br>&emsp;&emsp;Ghost Mode
+<br>&emsp;&emsp;Speed
+<br>&emsp;&emsp;Gamertag Spoofer
+<br>&emsp;&emsp;Auto Flak
+<br>&emsp;&emsp;Auto Med Brew
+<br>&emsp;&emsp;Character Creator
+<br>&emsp;&emsp;&emsp;Small Bone Preset
+<br>&emsp;&emsp;&emsp;Override Color
+<br>&emsp;&emsp;No Spawn Animation
+</details>
+
+<details>
+<summary>Exploits > Weapon mods</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;No Sway
+<br>&emsp;&emsp;No Shake
+<br>&emsp;&emsp;No Spread
+<br>&emsp;&emsp;No Unequip
+<br>&emsp;&emsp;No Overheat
+<br>&emsp;&emsp;Bow Mod
+<br>&emsp;&emsp;Instant Scope
+<br>&emsp;&emsp;Spyglass
+<br>&emsp;&emsp;Rapidfire
+<br>&emsp;&emsp;Tek Punch
+<br>&emsp;&emsp;Weapon Skins
+</details>
+
+<details>
+<summary>Exploits > Dinos Mods</summary>
+&emsp;&emsp;Enabled
+<br>&emsp;&emsp;Instant Turn
+<br>&emsp;&emsp;Backward Movement
+<br>&emsp;&emsp;Strafe move
+<br>&emsp;&emsp;Forcemount
+<br>&emsp;&emsp;Auto Remount
+<br>&emsp;&emsp;Speed
+</details>
