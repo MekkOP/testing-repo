@@ -254,3 +254,15 @@
 
 <br><strong>HUD/UI Colors:</strong> Changeable colors for the logo, base color, highlight color, text color 1 and 2, and the crosshair/aim fov color
 </details>
+
+<details>
+<summary>Settings</summary>
+<strong>Save Config:</strong> Saves the current config into &quot;C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC\PrimalConfig.json&quot;
+
+<br><strong>Load Config:</strong> Loads PrimalConfig.json from &quot;C:\Users\computername\AppData\Local\Packages\StudioWildcard.4558480580BB9_1w2mm55455e38\LocalState\Saved\UWPConfig\UWP\AC&quot;
+
+<br><strong>Menu Key:</strong> Changeable menu key
+
+<br><strong>Chams Opacity:</strong> Changeable opacity for all types of Chams
+
+<br><strong>Font Scales:</strong> Changeable font sizes for all types of ESP
