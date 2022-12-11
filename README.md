@@ -183,7 +183,7 @@
 <details>
 <summary>Exploits</summary>
 <strong>Unlock Notes:</strong> Unlocks most explorer notes
-
+<br>
 <strong>Unlock Engrams:</strong> Unlocks engrams but you can only craft them and not be able to use the items that you crafted
 
 <strong>Long Arms:</strong> Longer range for picking up items such as item caches, and longer range for access inventories
