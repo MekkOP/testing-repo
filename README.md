@@ -1,3 +1,5 @@
+# Paid Primal Features
+
 <details>
 <summary>Visuals > Players</summary>
 &emsp;&emsp;Enemy Players
