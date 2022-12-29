@@ -44,31 +44,31 @@ If you have any suggestions feel free to make a pull request or open an issue
 
 ## Contributors
 <!-- Copy-paste in your Readme.md file -->
->CodyNinja1
+>**CodyNinja1**
 ><br>
 ><a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
 >  <img src = "https://avatars.githubusercontent.com/u/82186696?v=1" alt="Image" height="100" width="100">
 ></a>
 
->StuntLover-TM
+>**StuntLover-TM**
 ><br>
 ><a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
 >  <img src = "https://avatars.githubusercontent.com/u/101748104?v=1" alt="Image" height="100" width="100">
 ></a>
 
->MekkOP
+>**MekkOP**
 ><br>
 ><a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
 >  <img src = "https://avatars.githubusercontent.com/u/116862033?v=4" alt="Image" height="100" width="100">
 ></a>
 
->Sai-Moen
+>**Sai-Moen**
 ><br>
 ><a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
 >  <img src = "https://avatars.githubusercontent.com/u/92254408?v=4" alt="Image" height="100" width="100">
 ></a>
 
->Shweetz
+>**Shweetz**
 ><br>
 ><a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
 >  <img src = "https://avatars.githubusercontent.com/u/5902307?v=4" alt="Image" height="100" width="100">
