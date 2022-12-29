@@ -58,13 +58,6 @@ If you have any suggestions feel free to make a pull request or open an issue
   <img src = "https://avatars.githubusercontent.com/u/101748104?v=1" alt="Image" height="100" width="100">
 </a>
 
-<strong>MekkOP
-</strong>
-<br>
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://avatars.githubusercontent.com/u/116862033?v=4" alt="Image" height="100" width="100">
-</a>
-
 <strong>Sai-Moen
 </strong>
 <br>
@@ -78,5 +71,13 @@ If you have any suggestions feel free to make a pull request or open an issue
 <a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
   <img src = "https://avatars.githubusercontent.com/u/5902307?v=4" alt="Image" height="100" width="100">
 </a>
+
+<strong>MekkOP
+</strong>
+<br>
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://avatars.githubusercontent.com/u/116862033?v=4" alt="Image" height="100" width="100">
+</a>
+
 
 ---
