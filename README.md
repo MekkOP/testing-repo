@@ -46,10 +46,10 @@ If you have any suggestions feel free to make a pull request or open an issue
 <!-- Copy-paste in your Readme.md file -->
 <strong>CodyNinja1
 </strong>
-><br>
-><a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
->  <img src = "https://avatars.githubusercontent.com/u/82186696?v=1" alt="Image" height="100" width="100">
-></a>
+<br>
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://avatars.githubusercontent.com/u/82186696?v=1" alt="Image" height="100" width="100">
+</a>
 
 <strong>StuntLover-TM
 </strong>
